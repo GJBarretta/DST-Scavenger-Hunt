@@ -1,1 +1,1 @@
-"# Scavenger Hunt Mini Game for DST" 
+# Scavenger Hunt Mini Game for DST
